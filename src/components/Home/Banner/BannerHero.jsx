@@ -5,7 +5,8 @@ import { Link } from "react-router-dom";
 import "./Banner.css";
 
 import { BASE_URL } from "../../../config/confir";
-import BannerHeroImg from "../../../assets/images/BannerHero.jpeg";
+import BannerHeroImg from "../../../assets/images/bannerHero.jpeg";
+
 const Banner = () => {
   return (
     <section>
